@@ -4,6 +4,6 @@ Name: Sai Deva Pranay Kumar Rao Guddity ID: 700745063
 
 Types of ANNs and Recurrent Neural Network.
 
-Code File: 
+Code File: Neural-ICP10-700745063.ipynb
 
-Document: 
+Document: Neural-ICP10-700745063.pdf
